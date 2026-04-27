@@ -1,4 +1,5 @@
-<img width="1280" height="320" alt="FastAPI • PostgreSQL • Docker" src="https://github.com/user-attachments/assets/4dca2877-f712-4f57-9ef6-c2e1b4c2f05a" />
+<img width="3780" height="1890" alt="Diseño sin título" src="https://github.com/user-attachments/assets/7c7d1669-08be-4e74-9d89-74c1425ec6a9" />
+
 
 # 📦 Inventory Management API
 

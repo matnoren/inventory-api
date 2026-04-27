@@ -1,3 +1,5 @@
+<img width="1280" height="320" alt="FastAPI • PostgreSQL • Docker" src="https://github.com/user-attachments/assets/4dca2877-f712-4f57-9ef6-c2e1b4c2f05a" />
+
 # 📦 Inventory Management API
 
 A production-ready REST API for inventory management built with **FastAPI**, **PostgreSQL**, and **Docker**. Designed with clean architecture, JWT authentication, role-based access control, and full test coverage — ready to deploy and easy to extend.
